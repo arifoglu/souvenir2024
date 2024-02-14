@@ -6,7 +6,7 @@ function checkLove() {
     var loveDisplay = document.getElementById("love_display");
 
     if (currentDate.getMonth() === evlilikTarihi.getMonth() && currentDate.getDate() === evlilikTarihi.getDate()) {
-        loveDisplay.innerHTML = `<img src="react.png" alt="Heart"> </br> ${esinizinAdi} sizi çok seviyor!`;
+        loveDisplay.innerHTML = `<img src="img.jpg" alt="Heart"> </br> ${esinizinAdi} seni çok seviyor!`;
     } else {
         loveDisplay.innerHTML = "CANIM bilgileri kontrol edermisin";
     }
