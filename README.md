@@ -1,2 +1,1 @@
-https://github.com/arifoglu/souvenir2024/index.html
-
+https://arifoglu.github.io/souvenir2024/index.html
